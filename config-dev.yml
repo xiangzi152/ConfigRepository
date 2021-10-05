@@ -1,2 +1,2 @@
-
-env=dev, version=2
+config:
+  info: "master branch, ConfigRepository/cofig-dev.yml, version = 2"
